@@ -1,0 +1,30 @@
+{
+    "theme": {
+        "dark": false,
+        "applications": "WhiteSur-Light",
+        "shell": "WhiteSur-Light",
+        "icons": "BigSur",
+        "cursor": "whiteglass",
+        "background": "/home/robin/.local/share/backgrounds/2024-05-01-16-41-41-13-Ventura-Light.jpg"
+    },
+
+    "titlebar": {
+        "button-layout": "close,maximize,minimize,appmenu:"
+    },
+
+    "extensions": [
+        "dash-to-dock@micxgx.gmail.com",
+        "search-light@icedman.github.com",
+        "azclock@azclock.gitlab.com",
+        "unite@hardpixel.eu",
+        "apps-menu@gnome-shell-extensions.gcampax.github.com",
+        "places-menu@gnome-shell-extensions.campax.github.com",
+        "blur-my-shell@aunetx",
+        "dynamic-panel-transparency@rockon999.github.io",
+        "PanelHidesWindow@arisoda.com",
+        "just-perfection-desktop@just-perfection",
+        "advanced-alt-tab@G-dH.github.com",
+        "zorin-magic-lamp-effect@zorinos.com",
+        "zorin-window-move-effect@zorinos.com"
+    ]
+}

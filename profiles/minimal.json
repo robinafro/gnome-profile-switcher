@@ -1,0 +1,18 @@
+{
+    "theme": {
+        "dark": false,
+        "applications": "ZorinGreen-Light",
+        "shell": "ZorinGreen-Light",
+        "icons": "ZorinGreen-Light",
+        "cursor": "whiteglass",
+        "background": "/home/robin/.local/share/backgrounds/2024-05-01-20-04-11-wall4.jpg"
+    },
+
+    "titlebar": {
+        "button-layout": ":appmenu,minimize,maximize,close"
+    },
+
+    "extensions": [
+        "aztaskbar@aztaskbar.gitlab.com"
+    ]
+}

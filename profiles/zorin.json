@@ -1,0 +1,22 @@
+{
+    "theme": {
+        "dark": true,
+        "applications": "ZorinPurple-Dark",
+        "shell": "ZorinPurple-Dark",
+        "icons": "ZorinPurple-Dark",
+        "cursor": "Adwaita",
+        "background": "/home/robin/.local/share/backgrounds/2024-03-10-16-24-10-Windows-11-Purple-Waves-4K-Wallpaper.jpg"
+    },
+
+    "titlebar": {
+        "button-layout": ":appmenu,minimize,maximize,close"
+    },
+
+    "extensions": [
+        "forge@jmmaranan.com",
+        "blur-my-shell@aunetx",
+        "CustomizeClockOnLockScreen@pratap.fastmail.fm",
+        "rounded-window-corners@yilozt",
+        "zorin-taskbar@zorinos.com"
+    ]
+}
